@@ -7,9 +7,9 @@ IFPR - Londrina - 3º Ano
 
 ====================================
 
--> Afinidade com cálculos e lógica
--> Proativo e autodidata
--> Aprendizagem fácil
+-> Afinidade com cálculos e lógica          
+-> Proativo e autodidata          
+-> Aprendizagem fácil          
 
 ====================================
 
