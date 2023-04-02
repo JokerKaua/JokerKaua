@@ -17,8 +17,13 @@ Java        - Bom
 C           - Bom                   
 Python      - Me viro                   
 Javascript  - Me viro                   
-
 HTML        - Me viro                   
 CSS         - Me viro                   
 
 ====================================
+
+Já fiz algumas automações web que na
+maioria das vezes foram feitas para
+me auxilar no meu serviço no MPPR.
+Aprendi bastante a utilizar a API 
+da Asana e do Google Sheets.
