@@ -1,17 +1,17 @@
-====================================
+===========================================================================================
 
 Kauã Felipe Martins
 
 Técnico em Informática Ensino Médio                 
 IFPR - Londrina - 3º Ano
 
-====================================
+===========================================================================================
 
 -> Afinidade com cálculos e lógica          
 -> Proativo e autodidata          
 -> Aprendizagem fácil          
 
-====================================
+===========================================================================================
 
 Java        - Bom                   
 C           - Bom                   
@@ -20,10 +20,8 @@ Javascript  - Me viro
 HTML        - Me viro                   
 CSS         - Me viro                   
 
-====================================
+============================================================================================
 
-Já fiz algumas automações web que na
-maioria das vezes foram feitas para
-me auxilar no meu serviço no MPPR.
-Aprendi bastante a utilizar a API 
-da Asana e do Google Sheets.
+Já fiz algumas automações web que na maioria das vezes foram feitas para e auxilar no meu serviço no MPPR.
+Aprendi bastante a utilizar a API da Asana e do Google Sheets.                        Meu maior hobbie é
+tocar violão e eu gosto de estudar teoria musical.
