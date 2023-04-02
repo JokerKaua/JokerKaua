@@ -25,4 +25,3 @@ CSS         - Me viro
 Já fiz algumas automações web que na maioria das vezes
 foram feitas para e auxilar no meu serviço no MPPR.
 Aprendi bastante a utilizar a API da Asana e do Google Sheets.
-eu maior hobbie é tocar violão e eu gosto de estudar teoria musical.
