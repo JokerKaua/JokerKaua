@@ -1,12 +1,7 @@
-=========================================================
+# ⭐ Kauã Felipe Martins
+### 🧑‍🎓 Técnico em Informática Integrado ao Ensino Médio, IFPR - 3º Ano
 
-Kauã Felipe Martins
-
-Técnico em Informática Ensino Médio                 
-IFPR - Londrina - 3º Ano
-
-=========================================================
-
+## 💡 Competências
 -> Afinidade com cálculos e lógica          
 -> Proativo e autodidata          
 -> Aprendizagem fácil          
