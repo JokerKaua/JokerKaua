@@ -8,8 +8,9 @@
 
 ## ⚙️ Technical skills
 * Java                  - Intermediary
+  <sub>Canvas and game programming</sub>
 * Javascript            - Beginner
-** node.js
+  <sub>node.js</sub>
 * HTML, CSS             - Beginner
 * C Language            - Basic
 * Python                - Basic
