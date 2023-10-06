@@ -1,22 +1,21 @@
 # ⭐ Kauã Felipe Martins
-### 🧑‍🎓 Técnico em Informática Integrado ao Ensino Médio, IFPR - 3º Ano
+### 🧑‍🎓 Computer Technician Integrated into High School, IFPR - Graduating 3rd Year
 
-## 💡 Competências
--> Afinidade com cálculos e lógica          
--> Proativo e autodidata          
--> Aprendizagem fácil          
+## 💡 Human skills
+* Afinidade com cálculos e lógica
+* Proativo e autodidata
+* Busca por conhecimento novos
 
-=========================================================
+## ⚙️ Technical skills
+* Java                  - Intermediary
+* Javascript            - Beginner
+** node.js
+* HTML, CSS             - Beginner
+* C Language            - Basic
+* Python                - Basic
+  
+## 📜 Experience
 
-Java        - Bom                   
-C           - Bom                   
-Python      - Me viro                   
-Javascript  - Me viro                   
-HTML        - Me viro                   
-CSS         - Me viro                   
+I did an internship at MPPR in Londrina, Paraná. In addition to secretarial services, I created web automation or spreadsheet programs to help with work. I made automations in javascript and python. I used the Asana API and libraries like pandas and selenium.
 
-=========================================================
-
-Já fiz algumas automações web que na maioria das vezes
-foram feitas para e auxilar no meu serviço no MPPR.
-Aprendi bastante a utilizar a API da Asana e do Google Sheets.
+I was taking a java developer course for game programming. I did some projects in Java, using OOP concepts and frameworks like Canvas, for graphics in Java.
