@@ -1,6 +1,6 @@
 # ⭐ Kauã Felipe Martins
 <sub> Brazil, Paraná, Londrina </sub>
-### 🧑‍🎓 Computer Technician Integrated into High School, IFPR - Graduating 3rd Year
+### 🧑‍🎓 Computer Technician Integrated into High School, IFPR - Graduating 4rd Year
 
 ## 💡 Human skills
 * Afinidade com cálculos e lógica
