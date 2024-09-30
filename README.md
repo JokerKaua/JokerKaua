@@ -8,13 +8,13 @@
 * Busca por conhecimento novos
 
 ## ⚙️ Technical skills
-* Java                  - Intermediary
+* Java                    - Intermediary
   <sub>Canvas and game programming</sub>
-* Javascript            - Beginner
-  <sub>node.js</sub>
-* HTML, CSS             - Beginner
-* C Language            - Basic
-* Python                - Basic
+* Javascript, Typescript  - Intermediary
+  <sub>node.js, react-native</sub>
+* HTML, CSS               - Beginner
+* C Language              - Basic
+* Python                  - Basic
   
 ## 📜 Experience
 
