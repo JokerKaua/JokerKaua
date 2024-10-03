@@ -12,9 +12,10 @@
   <sub>Canvas and game programming</sub>
 * Javascript, Typescript  - Intermediary
   <sub>node.js, react-native</sub>
-* HTML, CSS               - Beginner
+* HTML, CSS               - Basic
 * C Language              - Basic
 * Python                  - Basic
+* C#                      - Basic
   
 ## 📜 Experience
 
