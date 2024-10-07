@@ -2,20 +2,20 @@
 <sub> Brazil, Paraná, Londrina </sub>
 ### 🧑‍🎓 Computer Technician Integrated into High School, IFPR - Graduating 4rd Year
 
-## 💡 Human skills
-* Afinidade com cálculos e lógica
-* Proativo e autodidata
-* Busca por conhecimento novos
+## 💡 My person
+- Affinity with calculations and logic
+- Proactive and self-taught
+- Search for knowledge and new technologies
 
 ## ⚙️ Technical skills
-* Java                    - Intermediary
+- Java                    - Intermediary
   <sub>Canvas and game programming</sub>
-* Javascript, Typescript  - Intermediary
+- Javascript, Typescript  - Intermediary
   <sub>node.js, react-native</sub>
-* HTML, CSS               - Basic
-* C Language              - Basic
-* Python                  - Basic
-* C#                      - Basic
+- HTML, CSS               - Basic
+- C Language              - Basic
+- Python                  - Basic
+- C#                      - Basic
   
 ## 📜 Experience
 
