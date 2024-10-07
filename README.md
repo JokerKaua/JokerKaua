@@ -16,7 +16,6 @@
 - C Language              - Basic
 - Python                  - Basic
 - C#                      - Basic
-- Dart                    - Senior
   
 ## 📜 Experience
 
